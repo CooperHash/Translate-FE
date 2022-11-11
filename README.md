@@ -1,0 +1,2 @@
+# Translate-FE
+EN-CN
